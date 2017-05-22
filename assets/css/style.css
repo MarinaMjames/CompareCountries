@@ -1,0 +1,12 @@
+.jumbotron{
+	background-image: url(https://cloud.githubusercontent.com/assets/26077051/26288361/c655dcd6-3e5e-11e7-8d38-bf332fe9cdfd.jpeg);
+	height: 250px;
+	text-align: center;
+	color: white;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+.btn-default{
+	background-color: transparent;
+	border-color: transparent;
+	color: white;
+}
