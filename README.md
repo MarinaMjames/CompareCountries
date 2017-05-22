@@ -1,6 +1,8 @@
 # CompareCountries
 
 ## Collaborators
+Marina James
+Michael Pesce
 
 ## Description
 
